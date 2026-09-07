@@ -40,9 +40,9 @@ apt install nano -y
 4. CLONE THE REPOSITORY
 -----------------------
 
-git clone https://github.com/tokira53official-cloud/Paid-ip-bot.git
+git clone https://github.com/xzydip/xzy-vps-bot.git
 
-cd Paid-ip-bot
+cd xzy-vps-bot
 
 
 5. INSTALL PYTHON AND PIP
@@ -60,6 +60,12 @@ If the repository contains a requirements.txt file, run:
 pip3 install -r requirements.txt
 
 If there is no requirements.txt file, install the Python packages required by xzy.py manually.
+
+
+7. Dowload Discord
+-------------------
+
+pip install discord
 
 
 7. CONFIGURE XZY.PY
@@ -264,7 +270,7 @@ apt install nano -y
 apt install python3 -y
 apt install python3-pip -y
 
-git clone https://github.com/tokira53official-cloud/Paid-ip-bot.git
+git clone https://github.com/xzydip/xzy-vps-bot.git
 cd Paid-ip-bot
 
 pip3 install -r requirements.txt
@@ -357,6 +363,6 @@ PAID IP BOT
 ===========
 
 GitHub:
-https://github.com/tokira53official-cloud/Paid-ip-bot/
+https://github.com/xzydip/xzy-vps-bot/
 
 End of README
