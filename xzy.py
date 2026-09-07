@@ -3649,7 +3649,7 @@ async def auto_expire_check():
 if __name__ == "__main__":
     # Put your Discord bot token between the quotes.
     # This bot will NOT ask for the token in the terminal.
-    token = "MTU0NjUwMzQyNTEyNDk5MDk5Ng.GXQoTj.HHT00Q6YnqoHbzL_Pkdr_cZBq2KoiBaRaGrcAo"
+    token = "MTU0NjIzOTA0NDgyMjg5MjY0OA.GfMgTn.2ljAdnaXd17jjNQDQ36VA63D9tDp0-kz9OHskw"
     bot.run(token)
 
 
