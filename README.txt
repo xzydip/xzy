@@ -40,9 +40,9 @@ apt install nano -y
 4. CLONE THE REPOSITORY
 -----------------------
 
-git clone https://github.com/xzydip/xzy-vps-bot.git
+git clone https://github.com/xzydip/xzy
 
-cd xzy-vps-bot
+cd xzy
 
 
 5. INSTALL PYTHON AND PIP
