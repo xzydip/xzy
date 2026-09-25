@@ -45,6 +45,17 @@ git clone https://github.com/xzydip/xzy
 cd xzy
 
 
+# Step 1: Update your package list and install the venv tool
+sudo apt update && sudo apt install -y python3-venv
+
+# Step 2: Create a new virtual environment named 'myenv'
+python3 -m venv myenv
+
+# Step 3: Activate the virtual environment
+source myenv/bin/activate
+
+
+
 5. INSTALL PYTHON AND PIP
 -------------------------
 
